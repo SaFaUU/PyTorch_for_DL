@@ -8,3 +8,7 @@ data/FashionMNIST/raw/train-images-idx3-ubyte
 data/FashionMNIST/raw/train-images-idx3-ubyte.gz
 data/FashionMNIST/raw/train-labels-idx1-ubyte
 data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+models
+data/pizza_steak_sushi.zip
+going_modular/__pycache__/data_setup.cpython-39.pyc
+going_modular/__pycache__/engine.cpython-39.pyc
